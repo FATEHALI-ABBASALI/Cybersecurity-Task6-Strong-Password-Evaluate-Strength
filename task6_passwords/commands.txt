@@ -1,0 +1,4 @@
+sudo apt update && sudo apt -y upgrade
+sudo apt install -y libcrack2 libpam-cracklib john pwgen scrot git keepassxc
+mkdir ~/task6_passwords && cd ~/task6_passwords
+# ... (include the rest of the commands you executed)
